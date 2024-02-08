@@ -1,5 +1,4 @@
-# Lighthouse_final_project
-Detecting the brain tumor
+# Detection of Brain Tumor
 
 This project to detect and classify the brain tumor in patients by image classification of MRI scan of the brain.
 
